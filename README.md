@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/TheNounProject/CollectionView.svg?branch=master)](https://travis-ci.org/TheNounProject/CollectionView)
 
-An easy to use, highly customizable replacement for NSCollectionView.
+An easy to use, highly customizable replacement for NSCollectionView based 100% on [TheNounProject's CollectionView](https://travis-ci.org/TheNounProject/CollectionView).  This just makes it a swift Package.
 
 ---
 
